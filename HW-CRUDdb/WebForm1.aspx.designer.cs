@@ -94,6 +94,24 @@ namespace HW_CRUDdb {
         protected global::System.Web.UI.WebControls.TextBox txtGener;
         
         /// <summary>
+        /// txtWeight 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtWeight;
+        
+        /// <summary>
+        /// txtHeight 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtHeight;
+        
+        /// <summary>
         /// btnAdd 控制項。
         /// </summary>
         /// <remarks>
@@ -137,6 +155,24 @@ namespace HW_CRUDdb {
         /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtE_Gener;
+        
+        /// <summary>
+        /// txtE_Weight 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtE_Weight;
+        
+        /// <summary>
+        /// txtE_Height 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 將移動欄位宣告從設計檔案修改為程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtE_Height;
         
         /// <summary>
         /// btnEdit 控制項。
